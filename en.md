@@ -1,12 +1,12 @@
 ## Carvalho Elmir ##
 [deppbrazil.com](https://www.deppbrazil.com) | deppbrazil@gmail.com 
-Brazil | SP | Jundiaí
+* Brazil | SP | Jundiaí
 ___
 ## Academic Education ##
 * University UNIP 
-Graphic Design Digital
-Completed ✔	
+* Graphic Design Digital
+* Completed ✔	
 
 * University Anhanguera Educational
-Computer Engineering 
-Studying ✔	
+* Computer Engineering 
+* Studying ✔	
