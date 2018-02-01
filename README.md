@@ -1,4 +1,4 @@
 # My Curriculum Vitae # 
 ## Choose Language ## 
-* [pt-br]()
-* [en]()
+* [pt-br](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
+* [en](https://github.com/deppbrazil/cv/blob/master/en.md)
