@@ -5,10 +5,10 @@ ___
 ## Objetivo ## 
 * Front-end Developer
 ## Formação Acadêmica ##
-* Universidade Anhanguera Educacional
+* ### Universidade Anhanguera Educacional ###
 Engenharia de Computação
 Cursando ✔
 
-* Universidade UNIP 
+* ### Universidade UNIP ###
 Design Gráfico Digital e Multimídia
 Concluído ✔
