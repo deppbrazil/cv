@@ -5,10 +5,10 @@ ___
 ## Objective ## 
 * Front-end Developer
 ## Academic Education ##
-* #### University Anhanguera Educational ####
+* ### University Anhanguera Educational ###
 * Computer Engineering
 * Studying ✔
 
-* #### University UNIP ####
+* ### University UNIP ###
 * Graphic Design Digital and Multimedia
 * Completed ✔
