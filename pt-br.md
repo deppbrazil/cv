@@ -12,3 +12,14 @@ ___
 * ### Universidade UNIP ###
 * Design Gráfico Digital e Multimídia
 * Concluído ✔
+
+## Experiência Profissional ##
+* ### Kroton Educacional ### 
+* Coordenador de Produção de Material Didático 
+* de fev/2018 - atualmente
+* ### Kroton Educacional ### 
+* Especialista de Produção Multimídia
+* de fev/2017 - fev/2018
+* ### Kroton Educacional ### 
+* Designer Multimídia Pleno
+* de out/2015 - fev/2017
