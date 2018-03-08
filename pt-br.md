@@ -6,11 +6,11 @@ ___
 * Desenvolvedor Front-end
 ## Formação Acadêmica ##
 * ### Universidade Anhanguera Educacional ###
-* Engenharia de Computação
+* Bacharel em Engenharia de Computação
 * Cursando ✔
 
 * ### Universidade UNIP ###
-* Design Gráfico Digital e Multimídia
+* Sup. Tecnólogo em Design Gráfico Digital e Multimídia
 * Concluído ✔
 
 ## Experiência Profissional ##
