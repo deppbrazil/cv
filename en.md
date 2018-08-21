@@ -12,6 +12,19 @@ ___
 * Curious
 * Creative
 
+## Languages ##
+* Portuguese - Fluent/Native
+* English - Intermediate 
+
+## Proficient user of MS Office. ##
+* Excel
+* Word
+* MS Project
+* VSCode
+* Git
+* Sublime Text3
+* CloudBerry AWS
+
 ## Stacks ##
 * HTML5
 * CSS3
@@ -26,7 +39,7 @@ ___
 * *NodeJS (in growth)
 * *React Native (in growth)
 
-## OpenSource Contribution ##
+## Major accomplishments ##
 ### Blog at [Raphael Fabeni](https://github.com/raphaelfabeni) ###
 * https://github.com/raphaelfabeni/raphaelfabeni.github.io/graphs/contributors
 
@@ -42,16 +55,16 @@ ___
 ## Professional Background ##
 * ### Kroton Educacional ### 
 * Didactic Material Production Coordinator 
-* de fev/2018 - current
+* de feb/2018 - current
 * ### Kroton Educacional ### 
 * Multimedia Specialist
-* de fev/2017 - fev/2018
+* de feb/2017 - feb/2018
 * ### Kroton Educacional ### 
 * Multimedia Designer
-* de out/2015 - fev/2017
+* de oct/2015 - feb/2017
 * ### Blaise Sistemas e Soluções 
 * Developer Jr. C#
 * de jan/2014 - jul/2014
 * ### Grupo CyberShop ###
 * Web Designer
-* de jan/2012 - dez/2012
+* de jan/2012 - dec/2012

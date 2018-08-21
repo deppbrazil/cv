@@ -12,6 +12,19 @@ ___
 * Curioso
 * Criativo
 
+## Idiomas ##
+* Português - Fluente/Nativo
+* Inglês - Intermediário 
+
+## Informática e Softwares ##
+* Excel
+* Word
+* MS Project
+* VSCode
+* Git
+* Sublime Text3
+* CloudBerry AWS
+
 ## Competências ##
 * HTML5
 * CSS3
@@ -26,7 +39,7 @@ ___
 * *NodeJS (em desenvolvimento)
 * *React Native (em desenvolvimento)
 
-## Contribuições OpenSource ##
+## Contribuições ##
 ### Blog do [Raphael Fabeni](https://github.com/raphaelfabeni) ###
 * https://github.com/raphaelfabeni/raphaelfabeni.github.io/graphs/contributors
 
