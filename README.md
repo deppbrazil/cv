@@ -19,5 +19,5 @@
 * [GitHub](https://github.com/deppbrazil)
 * [CodePen](https://www.codepen.io/deppbrazil)
 * [Medium](https://medium.com/@deppbrazil)
-* [Spotify](spotify:user:223a56evgrwf73mdbejoead7y)
+* [Spotify](https://open.spotify.com/user/223a56evgrwf73mdbejoead7y?si=A82w9OOoRsGgkTJ0NVWYag)
 * [Apple Music](https://itunes.apple.com/profile/deppbrazil)
