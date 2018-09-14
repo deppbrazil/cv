@@ -33,7 +33,7 @@ ___
 * MySQL
 * Photoshop
 * Ilustrator
-* Design Responsivo
+* Responsive Design
 * *UI/UX (in growth)
 * *ReactJS (in growth) 
 * *NodeJS (in growth)
