@@ -3,6 +3,7 @@
 ## Website ##
 * [BR](https://www.deppbrazil.com)
 * [US](https://www.deppbrazil.com.br)
+* [Github Pages](https://deppbrazil.github.io)
 
 ## vs in Markdown ##
 * [pt-br](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
