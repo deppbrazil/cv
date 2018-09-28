@@ -6,12 +6,12 @@
 * [Github Pages](https://deppbrazil.github.io)
 
 ## vs in Markdown ##
-* [pt-br](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
 * [en](https://github.com/deppbrazil/cv/blob/master/en.md)
+* [pt-br](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
 
-## vs PDF ##
-* [pt-br](https://github.com/deppbrazil/cv/blob/master/dist/cv-pt-br.pdf)
+## vs in PDF ##
 * [en](https://github.com/deppbrazil/cv/blob/master/dist/cv-en.pdf)
+* [pt-br](https://github.com/deppbrazil/cv/blob/master/dist/cv-pt-br.pdf)
 
 ## Social Networks ##
 * [Facebook](https://www.facebook.com/deppbrazil)
