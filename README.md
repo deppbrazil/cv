@@ -1,8 +1,8 @@
 # My Curriculum 📃 #
 
 ## Website ##
-* [BR](https://www.deppbrazil.com)
-* [US](https://www.deppbrazil.com.br)
+* [US](https://www.deppbrazil.com)
+* [BR](https://www.deppbrazil.com.br)
 * [Github Pages](https://deppbrazil.github.io)
 
 ## vs in Markdown ##
