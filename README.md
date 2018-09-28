@@ -1,15 +1,16 @@
-# My Curriculum Vitae #
+# My Curriculum 📃 #
 
-## Version in Github ##
+## vs in Github ##
 * [pt-br](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
 * [en](https://github.com/deppbrazil/cv/blob/master/en.md)
 
-## Version PDF ##
+## vs PDF ##
 * [pt-br](https://github.com/deppbrazil/cv/blob/master/dist/cv-pt-br.pdf)
 * [en](https://github.com/deppbrazil/cv/blob/master/dist/cv-en.pdf)
 
 ## Website ##
-* [Deppbrazil](https://www.deppbrazil.com)
+* [BR](https://www.deppbrazil.com)
+* [US](https://www.deppbrazil.com.br)
 
 ## Social Networks ##
 * [Facebook](https://www.facebook.com/deppbrazil)
