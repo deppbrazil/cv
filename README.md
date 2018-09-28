@@ -1,16 +1,16 @@
 # My Curriculum 📃 #
 
-## vs in Github ##
+## Website ##
+* [BR](https://www.deppbrazil.com)
+* [US](https://www.deppbrazil.com.br)
+
+## vs in Markdown ##
 * [pt-br](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
 * [en](https://github.com/deppbrazil/cv/blob/master/en.md)
 
 ## vs PDF ##
 * [pt-br](https://github.com/deppbrazil/cv/blob/master/dist/cv-pt-br.pdf)
 * [en](https://github.com/deppbrazil/cv/blob/master/dist/cv-en.pdf)
-
-## Website ##
-* [BR](https://www.deppbrazil.com)
-* [US](https://www.deppbrazil.com.br)
 
 ## Social Networks ##
 * [Facebook](https://www.facebook.com/deppbrazil)
