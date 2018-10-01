@@ -11,35 +11,37 @@ ___
 * Comunicativo 
 * Curioso
 * Criativo
+* Entusiasta
 
 ## Idiomas ##
 * Português - Fluente/Nativo
-* Inglês - Intermediário 
+* Inglês - Intermediário
 
 ## Informática e Softwares ##
 * Excel
 * Word
+* Photoshop
+* Ilustrator
 * MS Project
-* VSCode
 * Git
-* Sublime Text3
-* CloudBerry AWS
+* Sketch (em desenvolvimento)
+* AdobeXD (em desenvolvimento)
 
 ## Competências ##
 * HTML5
 * CSS3
 * Javascript
 * PHP
-* MySQL
-* Photoshop
-* Ilustrator
+* Banco de dados
+* Mobile
+* Mobile First
 * Design Responsivo
 * *UI/UX (em desenvolvimento)
 * *ReactJS (em desenvolvimento) 
 * *NodeJS (em desenvolvimento)
 * *React Native (em desenvolvimento)
 
-## Contribuições ##
+## Contribuições grandes ##
 ### Blog do [Raphael Fabeni](https://github.com/raphaelfabeni) ###
 * https://github.com/raphaelfabeni/raphaelfabeni.github.io/graphs/contributors
 
@@ -54,7 +56,7 @@ ___
 
 ## Experiência Profissional ##
 * ### Kroton Educacional ### 
-* Coordenador de Produção de Material Didático 
+* Coordenador de Produção de Material Didático Web
 * de fev/2018 - atualmente
 * ### Kroton Educacional ### 
 * Especialista de Produção Multimídia

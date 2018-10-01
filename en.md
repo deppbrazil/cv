@@ -11,28 +11,30 @@ ___
 * Communicative
 * Curious
 * Creative
+* Enthusiastic
 
 ## Languages ##
 * Portuguese - Fluent/Native
-* English - Intermediate 
+* English - Intermediate
 
 ## Proficient user of MS Office. ##
 * Excel
 * Word
+* Photoshop
+* Ilustrator
 * MS Project
-* VSCode
 * Git
-* Sublime Text3
-* CloudBerry AWS
+* Sketch (in growth)
+* AdobeXD (in growth)
 
 ## Stacks ##
 * HTML5
 * CSS3
 * Javascript
 * PHP
-* MySQL
-* Photoshop
-* Ilustrator
+* Database
+* Mobile
+* Mobile First
 * Responsive Design
 * *UI/UX (in growth)
 * *ReactJS (in growth) 
@@ -54,7 +56,7 @@ ___
 
 ## Professional Background ##
 * ### Kroton Educacional ### 
-* Didactic Material Production Coordinator 
+* Web Didactic Material Production Coordinator 
 * de feb/2018 - current
 * ### Kroton Educacional ### 
 * Multimedia Specialist

@@ -1,5 +1,7 @@
 # My Curriculum 📃 #
 
+<img width="150" alt="logomarca deppbrazil" src="https://github.com/deppbrazil/deppbrazil.github.io/blob/master/id/tiny-png/black.png">
+
 ## Website ##
 * [US](https://www.deppbrazil.com)
 * [BR](https://www.deppbrazil.com.br)
