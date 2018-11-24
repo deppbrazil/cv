@@ -3,15 +3,14 @@
 [![Banner](assets/banner.jpg)](https://github.com/deppbrazil/cv)
 
 ## Website ##
-* [US](https://www.deppbrazil.com)
-* [BR](https://www.deppbrazil.com.br)
-* [Github Pages](https://deppbrazil.github.io)
+* [🇺🇸](https://www.deppbrazil.com)
+* [🇧🇷](https://www.deppbrazil.com.br)
 
-## vs in Markdown ##
+## Markdown ##
 * [en](https://github.com/deppbrazil/cv/blob/master/en.md)
 * [pt-br](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
 
-## vs in PDF ##
+## PDF ##
 * [en](https://github.com/deppbrazil/cv/blob/master/dist/cv-en.pdf)
 * [pt-br](https://github.com/deppbrazil/cv/blob/master/dist/cv-pt-br.pdf)
 
@@ -25,3 +24,5 @@
 * [Medium](https://medium.com/@deppbrazil)
 * [Spotify](https://open.spotify.com/user/223a56evgrwf73mdbejoead7y?si=A82w9OOoRsGgkTJ0NVWYag)
 * [Apple Music](https://itunes.apple.com/profile/deppbrazil)
+* Behance `coming soon`
+* Dribbble `coming soon`
