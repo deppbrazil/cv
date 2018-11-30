@@ -4,8 +4,12 @@
 * [Linkedin](https://www.linkedin.com/in/deppbrazil/)
 ___
 
+* Design Responsivo
+* *UI/UX (em desenvolvimento)
+
+
 ## Objetivo ## 
-* Desenvolvedor Front-end
+* Front-end UI / Frontend UX
 
 ## Habilidades Interpessoais ##
 * Comunicativo 
@@ -13,35 +17,36 @@ ___
 * Criativo
 * Entusiasta
 
+## Habilidades tecnicas ##
+* Otimização de interfaces 
+* Animações em HTML
+* Design Responsivo
+* UI/UX (em desenvolvimento)
+
 ## Idiomas ##
 * Português - Fluente/Nativo
 * Inglês - Intermediário
 
-## Informática e Softwares ##
-* Excel
-* Word
+## Software ##
 * Photoshop
 * Ilustrator
+* Indesign 
+* Adobe XD
 * MS Project
 * Git
-* Sketch (em desenvolvimento)
-* AdobeXD (em desenvolvimento)
+* Webflow
 
-## Competências ##
+## Tecnologias ##
 * HTML5
 * CSS3
 * Javascript
 * PHP
-* Banco de dados
-* Mobile
-* Mobile First
-* Design Responsivo
-* *UI/UX (em desenvolvimento)
+* SQL
 * *ReactJS (em desenvolvimento) 
 * *NodeJS (em desenvolvimento)
 * *React Native (em desenvolvimento)
 
-## Contribuições grandes ##
+## Contribuições ##
 ### Blog do [Raphael Fabeni](https://github.com/raphaelfabeni) ###
 * https://github.com/raphaelfabeni/raphaelfabeni.github.io/graphs/contributors
 
@@ -58,15 +63,20 @@ ___
 * ### Kroton Educacional ### 
 * Coordenador de Produção de Material Didático Web
 * de fev/2018 - atualmente
+  > Atuando diretamente na gestão de uma equipe de 14 profissionais da área de design e tecnologia em um produto de grande demanda Web para ~1M de alunos
 * ### Kroton Educacional ### 
 * Especialista de Produção Multimídia
 * de fev/2017 - fev/2018
+  > Com foco principal em escalabilidade, performance, experiência e design em layouts para Web
 * ### Kroton Educacional ### 
 * Designer Multimídia Pleno
 * de out/2015 - fev/2017
+  > Membro de um tipe multimídia com foco em construção de produtos digitais voltados para animação em HTML5, CSS3 e Javascrip pensando sempre no design e experiência
 * ### Blaise Sistemas e Soluções 
 * Desenvolvedor C# Jr.
 * de jan/2014 - jul/2014
+  > Membro de um time de desenvolvedores backend trabalhando em um sistema ERP Web em plataforma .NET utilizando C# no backend em arquitetura MVC 
 * ### Grupo CyberShop ###
 * Web Designer
 * de jan/2012 - dez/2012
+  > Membro do time de suporte ao e-commerce atuando na atualiação do estoque de produtos, campanha e aumento de leads para a plataforma
