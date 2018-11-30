@@ -51,34 +51,34 @@ Blog do [Raphael Fabeni](https://github.com/raphaelfabeni)
 ### Formação Acadêmica ###
 **Universidade Anhanguera Educacional**
 * Bacharel em Engenharia de Computação
-* Cursando ✔
+#### Cursando ✔ ####
 
 **Universidade UNIP**
 * Design Gráfico Digital e Multimídia
-* Concluído ✔
+#### Concluído ✔ ####
 
 ### Experiência Profissional ###
 **Kroton Educacional**
 * Coordenador de Produção de Material Didático Web
-* de fev/2018 - atualmente
+##### fev/2018 - atualmente ####
   > Atuando diretamente na gestão de uma equipe de 14 profissionais da área de design e tecnologia em um produto de grande demanda Web para ~1M de alunos
 
 **Kroton Educacional** 
 * Especialista de Produção Multimídia
-* de fev/2017 - fev/2018
+#### fev/2017 - fev/2018 ####
   > Com foco principal em escalabilidade, performance, experiência e design em layouts para Web
 
 **Kroton Educacional**
 * Designer Multimídia Pleno
-* de out/2015 - fev/2017
+#### out/2015 - fev/2017 ####
   > Membro de um tipe multimídia com foco em construção de produtos digitais voltados para animação em HTML5, CSS3 e Javascrip pensando sempre no design e experiência
 
 **Blaise Sistemas e Soluções** 
 * Desenvolvedor C# Jr.
-* de jan/2014 - jul/2014
+#### jan/2014 - jul/2014 ####
   > Membro de um time de desenvolvedores backend trabalhando em um sistema ERP Web em plataforma .NET utilizando C# no backend em arquitetura MVC 
 
 **Grupo CyberShop**
 * Web Designer
-* de jan/2012 - dez/2012
+#### jan/2012 - dez/2012 ####
   > Membro do time de suporte ao e-commerce atuando na atualiação do estoque de produtos, campanha e aumento de leads para a plataforma
