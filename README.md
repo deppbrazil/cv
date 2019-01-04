@@ -2,19 +2,19 @@
 
 [![Banner](assets/banner.jpg)](https://github.com/deppbrazil/cv)
 
-## Website ##
+### Website ###
 * [🇺🇸](https://www.deppbrazil.com)
 * [🇧🇷](https://www.deppbrazil.com.br)
 
-## Markdown ##
+### Markdown ###
 * [en](https://github.com/deppbrazil/cv/blob/master/en.md)
 * [pt-br](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
 
-## PDF ##
+### PDF ###
 * [en](https://github.com/deppbrazil/cv/blob/master/dist/cv-en.pdf)
 * [pt-br](https://github.com/deppbrazil/cv/blob/master/dist/cv-pt-br.pdf)
 
-## Social Networks ##
+### Social Networks ###
 * [Facebook](https://www.facebook.com/deppbrazil)
 * [Instagram](https://www.instagram.com/deppbrazil/)
 * [Twitter](https://twitter.com/deppbrazil)
