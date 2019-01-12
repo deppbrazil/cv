@@ -1,5 +1,5 @@
 # Elmir Carvalho #
-[deppbrazil.com.br](https://www.deppbrazil.com)
+**[deppbrazil.com.br](https://www.deppbrazil.com)**
 
 * deppbrazil@gmail.com 
 * [Jundiaí | SP | Brasil](https://www.google.com.br/maps/place/Jundia%C3%AD,+SP/@-23.1896366,-47.1868625,11z/data=!3m1!4b1!4m5!3m4!1s0x94cf24293cc00531:0xf686a1c1163c6bbb!8m2!3d-23.1857076!4d-46.8978057)
@@ -58,44 +58,40 @@ Blog do [Raphael Fabeni](https://github.com/raphaelfabeni)
 ### Universidade Anhanguera Educacional ###
 * Bacharel em Engenharia de Computação
 * jan/2016 - atualmente
+* Cursando ✔
 > Atualmente no 7º semestre no Bacharel em Engenharia de computação, curso focado em cálculos, hardware, software, planejamento e gestão
-
-Cursando ✔
 
 ### Universidade UNIP ###
 * Design Gráfico Digital e Multimídia
 * jan/2007 - jan/2010
+* Concluído ✔
 > Criação e produção gráfica digital ou design gráfico, é uma graduação voltada para criação tanto de interfaces como mídia online e impressa focando nos padrões de tipografia, cores, estilo e tendência 
-
-Concluído ✔
 
 ## Experiência Profissional ##
 ### Kroton Educacional ###
-* Coordenador de Produção de Material Didático Web
+* **Coordenador de Produção de Material Didático Web**
 * fev/2018 - atualmente
 > Coordenando um time multidisciplinar de 14 colaboradores sendo eles: designers, diagramadores e web designers, atuamos em um produto didático web que impacta diretamente ~1M de alunos nas marcas Kroton
 
-### Kroton Educacional ###
-* Especialista de Produção Multimídia
+* **Especialista de Produção Multimídia**
 * fev/2017 - fev/2018
 > Como especialista atuava na melhoria de performance em nossos produtos acadêmico web para a plataforma digital de ~1M de alunos, utilizando HTML5, CSS3, Javascript, PHP, SQL, ferramentas de design como: ps, ai, indd, frameworks como Bootstrap, Webflow 
 
-### Kroton Educacional ###
-* Designer Multimídia Pleno
+* **Designer Multimídia Pleno**
 * out/2015 - fev/2017
 > Como Designer Multimídia minha principal tarefa era realização de animações e criações de páginas responsivas em HTML5, CSS3, Javascript e Jquery nos materiais acadêmicos para ~1M de alunos nas marcas Kroton 
 
 ### Blaise Sistemas e Soluções ### 
-* Desenvolvedor C# Jr.
+* **Desenvolvedor C# Jr.**
 * jan/2014 - jul/2014
 > Atuava como desenvolvedor jr. em um sistema ERP Web, em plataforma .NET utilizando C# no backend e banco SQLServer e PostgreSQL
 
-* Estagiário de desenvolvimento
+* **Estagiário de desenvolvimento**
 * jan/2014 - mar/2014
 > Ganhei uma bolsa de estágio e atuava como assistente de desenvolvimento em um sistema ERP local utilizando Visual Basic no backend em plataforma .NET, depois fui para o ERP Web em C#
 
 
 ### Grupo CyberShop###
-* Web Designer
+* **Web Designer**
 * jan/2012 - dez/2012
 > Como Web designer minha principal tarefa era atualizar o e-commerce com os produtos e preços e criar os banners promocionais, as vezes também criava estratégias para aumentar leads do e-commerce, utilizava HTML, CSS, PHP em IDE Dreamweaver
