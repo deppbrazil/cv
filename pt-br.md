@@ -1,40 +1,47 @@
 # Elmir Carvalho #
-* [deppbrazil.com.br](https://www.deppbrazil.com) | deppbrazil@gmail.com 
+[deppbrazil.com.br](https://www.deppbrazil.com)
+___ 
+
+* deppbrazil@gmail.com 
 * [Jundiaí | SP | Brasil](https://www.google.com.br/maps/place/Jundia%C3%AD,+SP/@-23.1896366,-47.1868625,11z/data=!3m1!4b1!4m5!3m4!1s0x94cf24293cc00531:0xf686a1c1163c6bbb!8m2!3d-23.1857076!4d-46.8978057)
 * [Linkedin](https://www.linkedin.com/in/deppbrazil/)
-___
 
-### Objetivo ###
+## Objetivo ##
 * Front-end UI / Frontend UX
 
-### Habilidades Interpessoais ###
+## Habilidades Interpessoais ##
 * Comunicativo 
 * Curioso
 * Criativo
 * Entusiasta
+* Senso crítico 
 
-### Habilidades técnicas ###
+## Habilidades técnicas ##
 * Otimização de interfaces 
 * Animações em HTML
 * Design Responsivo
 * UI/UX (em desenvolvimento)
 
-### Idiomas ###
+## Idiomas ##
 * Português - Fluente/Nativo
 * Inglês - Intermediário
 
-### Software ###
+## Software ##
+* VSCode
+* Git
 * Adobe Photoshop
 * Adobe Ilustrator
 * Adobe Indesign
 * Adobe Premiere
 * Adobe After Effects 
-* Adobe XD
+* Adobe XD (aprendendo)
+* Sketch (aprendendo)
+* Zeplin (aprendendo)
+* Marvel (aprendendo)
 * MS Project
-* Git
 * Webflow
 
-### Tecnologias ###
+## Tecnologias ##
 * HTML5
 * CSS3
 * Javascript
@@ -44,41 +51,52 @@ ___
 * *NodeJS (em desenvolvimento)
 * *React Native (em desenvolvimento)
 
-### Contribuições ###
+## Contribuições OpenSource ##
 Blog do [Raphael Fabeni](https://github.com/raphaelfabeni)
 > https://github.com/raphaelfabeni/raphaelfabeni.github.io/graphs/contributors
 
-### Formação Acadêmica ###
-**Universidade Anhanguera Educacional**
+## Formação Acadêmica ##
+### Universidade Anhanguera Educacional ###
 * Bacharel em Engenharia de Computação
-#### Cursando ✔ ####
+* jan/2016 - atualmente
+> Atualmente no 7º semestre no Bacharel em Engenharia de computação, curso focado em cálculos, hardware, software, planejamento e gestão
 
-**Universidade UNIP**
+Cursando ✔
+
+### Universidade UNIP ###
 * Design Gráfico Digital e Multimídia
-#### Concluído ✔ ####
+* jan/2007 - jan/2010
+> Criação e produção gráfica digital ou design gráfico, é uma graduação voltada para criação tanto de interfaces como mídia online e impressa focando nos padrões de tipografia, cores, estilo e tendência 
 
-### Experiência Profissional ###
-**Kroton Educacional**
+Concluído ✔
+
+## Experiência Profissional ##
+### Kroton Educacional ###
 * Coordenador de Produção de Material Didático Web
-##### fev/2018 - atualmente ####
-  > Atuando diretamente na gestão de uma equipe de 14 profissionais da área de design e tecnologia em um produto de grande demanda Web para ~1M de alunos
+* fev/2018 - atualmente
+> Coordenando um time multidisciplinar de 14 colaboradores sendo eles: designers, diagramadores e web designers, atuamos em um produto didático web que impacta diretamente ~1M de alunos nas marcas Kroton
 
-**Kroton Educacional** 
+### Kroton Educacional ###
 * Especialista de Produção Multimídia
-#### fev/2017 - fev/2018 ####
-  > Com foco principal em escalabilidade, performance, experiência e design em layouts para Web
+* fev/2017 - fev/2018
+> Como especialista atuava na melhoria de performance em nossos produtos acadêmico web para a plataforma digital de ~1M de alunos, utilizando HTML5, CSS3, Javascript, PHP, SQL, ferramentas de design como: ps, ai, indd, frameworks como Bootstrap, Webflow 
 
-**Kroton Educacional**
+### Kroton Educacional ###
 * Designer Multimídia Pleno
-#### out/2015 - fev/2017 ####
-  > Membro de um tipe multimídia com foco em construção de produtos digitais voltados para animação em HTML5, CSS3 e Javascrip pensando sempre no design e experiência
+* out/2015 - fev/2017
+> Como Designer Multimídia minha principal tarefa era realização de animações e criações de páginas responsivas em HTML5, CSS3, Javascript e Jquery nos materiais acadêmicos para ~1M de alunos nas marcas Kroton 
 
-**Blaise Sistemas e Soluções** 
+### Blaise Sistemas e Soluções ### 
 * Desenvolvedor C# Jr.
-#### jan/2014 - jul/2014 ####
-  > Membro de um time de desenvolvedores backend trabalhando em um sistema ERP Web em plataforma .NET utilizando C# no backend em arquitetura MVC 
+* jan/2014 - jul/2014
+> Atuava como desenvolvedor jr. em um sistema ERP Web, em plataforma .NET utilizando C# no backend e banco SQLServer e PostgreSQL
 
-**Grupo CyberShop**
+* Estagiário de desenvolvimento
+* jan/2014 - mar/2014
+> Ganhei uma bolsa de estágio e atuava como assistente de desenvolvimento em um sistema ERP local utilizando Visual Basic no backend em plataforma .NET, depois fui para o ERP Web em C#
+
+
+### Grupo CyberShop###
 * Web Designer
-#### jan/2012 - dez/2012 ####
-  > Membro do time de suporte ao e-commerce atuando na atualiação do estoque de produtos, campanha e aumento de leads para a plataforma
+* jan/2012 - dez/2012
+> Como Web designer minha principal tarefa era atualizar o e-commerce com os produtos e preços e criar os banners promocionais, as vezes também criava estratégias para aumentar leads do e-commerce, utilizava HTML, CSS, PHP em IDE Dreamweaver
