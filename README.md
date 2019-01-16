@@ -2,19 +2,19 @@
 
 [![Banner](assets/banner.jpg)](https://github.com/deppbrazil/cv)
 
-### Website ###
+### Site ###
 * [🇺🇸](https://www.deppbrazil.com)
 * [🇧🇷](https://www.deppbrazil.com.br)
 
-### Markdown ###
-* [en](https://github.com/deppbrazil/cv/blob/master/en.md)
-* [pt-br](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
+### CV ###
+* [English](https://github.com/deppbrazil/cv/blob/master/en.md)
+* [Portuguese](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
 
 ### PDF ###
-* [en](https://github.com/deppbrazil/cv/blob/master/dist/cv-en.pdf)
-* [pt-br](https://github.com/deppbrazil/cv/blob/master/dist/cv-pt-br.pdf)
+* [English](https://github.com/deppbrazil/cv/blob/master/dist/cv-en.pdf)
+* [Portuguese](https://github.com/deppbrazil/cv/blob/master/dist/cv-pt-br.pdf)
 
-### Social Networks ###
+### Where to find me? ###
 * [Facebook](https://www.facebook.com/deppbrazil)
 * [Instagram](https://www.instagram.com/deppbrazil/)
 * [Twitter](https://twitter.com/deppbrazil)
