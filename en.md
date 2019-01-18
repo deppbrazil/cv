@@ -80,15 +80,15 @@ deppbrazil@gmail.com
 **Kroton Educational**
 * Web Didactic Material Production Coordinator 
 * Feb/2018 - current
-> Coordinating a multidisciplinary team of 14 person, well they are: designers, diagraming and web designers, we work on a product of learning that directly impacts ~ 1M students in the Kroton brands
+> Coordinating a multidisciplinary team of 14 person, well they are: designers, diagraming and web designers, we work on a product of learning that directly impacts ~1M of students in the Kroton brands
 
 * Multimedia Specialist
 * Feb/2017 - Feb/2018
-> As a specialist I worked on performance improvement in our web academic products for the ~ 1M digital platform of students, using HTML5, CSS3, Javascript, PHP, SQL, design tools like: ps, ai, indd, frameworks some as Bootstrap, Webflow 
+> As a specialist I worked on performance improvement in our web academic products for digital platform of ~1M of students, using HTML5, CSS3, Javascript, PHP, SQL, design tools like: ps, ai, indd, frameworks some as Bootstrap, Webflow
 
 * Multimedia Designer
 * Oct/2015 - Feb/2017
-> As a Multimedia Designer, my main task was to create animations and creations of page responsive HTML5, CSS3, Javascript and Jquery at academic materials for ~ 1M students in the Kroton brands
+> As a Multimedia Designer, my main task was to create animations and creations of page responsive HTML5, CSS3, Javascript and Jquery at academic materials for ~1M of students in the Kroton brands
 
 **Blaise System and Solutions**
 * Jr. Developer C#
