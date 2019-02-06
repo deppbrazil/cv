@@ -1,4 +1,4 @@
-# My Curriculum 👔 #
+# My Curriculum #
 
 ### CV ###
 * [English](https://github.com/deppbrazil/cv/blob/master/en.md)
