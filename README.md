@@ -1,14 +1,10 @@
 # My Curriculum 👔 #
 
-[![Banner](assets/banner.jpg)](https://github.com/deppbrazil/cv)
-
-### Site ###
-* [🇺🇸](https://www.deppbrazil.com)
-* [🇧🇷](https://www.deppbrazil.com.br)
-
 ### CV ###
 * [English](https://github.com/deppbrazil/cv/blob/master/en.md)
 * [Portuguese](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
+
+[![Banner](assets/banner.jpg)](https://www.deppbrazil.com)
 
 ### PDF ###
 * [English](https://github.com/deppbrazil/cv/blob/master/dist/cv-en.pdf)
