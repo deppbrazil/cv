@@ -18,13 +18,22 @@ deppbrazil@gmail.com
 * Creative
 * Enthusiastic
 * Critical Sense
+* Empathic
 ### } ###
 
 ### .Hard-Skills { ###
-* Interface optimization 
-* HTML animation
-* Responsive design
-* UI/UX (in growth)
+* Web Development
+* Web accessibility (one Web for all)
+* Content Development Mobile
+* Animations in HTML
+* Interactive objects for Web and Mobile
+* Responsive layout for Mobile
+* Responsive layout for Web
+* Versioning and integration with Git
+* Remote repositories: Github and Bitbucket
+* UX/UI (in growth)
+* CI/CD (in growth)
+  
 ### } ###
 
 ### .Languages { ### 
@@ -35,28 +44,32 @@ deppbrazil@gmail.com
 ### .Proficient-user-of-MS-Office. { ###
 * VSCode
 * Git
+* NPM (Node Package Manager)
+* Yarn
 * Adobe Photoshop
 * Adobe Ilustrator
 * Adobe Indesign
 * Adobe Premiere
 * Adobe After Effects 
+* Adobe Edge Animate
+* MS Project
+* Webflow
+* BootstrapStudio
 * Adobe XD (in growth)
 * Sketch (in growth)
 * Zeplin (in growth)
-* Marvel (in growth)
-* MS Project
-* Webflow
+* Gulp (in growth)
+    
 ### } ###
 
 ### .Stacks { ###
 * HTML5
 * CSS3
 * Javascript
-* PHP
-* SQL
-* ReactJS (in growth) 
-* NodeJS (in growth)
-* React Native (in growth)
+* ES6 (in growth) 
+* PHP / SQL
+* React (in growth) 
+* @Angular (in growth)
 ### } ### 
 
 ### .Major-Accomplishments (OpenSource) { ###
@@ -84,11 +97,11 @@ deppbrazil@gmail.com
 
 * Multimedia Specialist
 * Feb/2017 - Feb/2018
-> As a specialist I worked on performance improvement in our web academic products for digital platform of ~1M of students, using HTML5, CSS3, Javascript, PHP, SQL, design tools like: ps, ai, indd, frameworks some as Bootstrap, Webflow
+> As a specialist I worked on performance improvement in our web academic products for digital platform of ~1M of students, using HTML5, CSS3, Sass, Javascript, PHP, SQL, design tools like: ps, ai, indd, frameworks some as Bootstrap, Webflow
 
 * Multimedia Designer
 * Oct/2015 - Feb/2017
-> As a Multimedia Designer, my main task was to create animations and creations of page responsive HTML5, CSS3, Javascript and Jquery at academic materials for ~1M of students in the Kroton brands
+> As a Multimedia Designer, my main task was to create animations and creations of page responsive HTML5, CSS3, Sass, Javascript and Jquery at academic materials for ~1M of students in the Kroton brands
 
 **Blaise System and Solutions**
 * Jr. Developer C#

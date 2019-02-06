@@ -17,14 +17,22 @@
 * Curioso
 * Criativo
 * Entusiasta
-* Senso crítico 
+* Senso crítico
+* Empático 
 ### } ###
 
 ### .Habilidades-Técnicas { ###
-* Otimização de interfaces 
+* Desenvolvimento Web 
+* Acessibilidade na Web (a web para todos)
+* Desenvolvimento de conteúdo Mobile
 * Animações em HTML
-* Design Responsivo
+* Objetos interativos para Web e Mobile
+* Layout responsivo para Mobile
+* Layout responsivo para Web
+* Integração e versionamento com Git 
+* Repositótios remotos: Github e Bitbucket
 * UI/UX (em desenvolvimento)
+* CI/CD (em desenvolvimento)
 ### } ###
 
 ### .Idiomas { ### 
@@ -35,28 +43,30 @@
 ### .Software { ###
 * VSCode
 * Git
+* NPM (Node Package Manager)
+* Yarn
 * Adobe Photoshop
 * Adobe Ilustrator
 * Adobe Indesign
 * Adobe Premiere
 * Adobe After Effects 
-* Adobe XD (aprendendo)
-* Sketch (aprendendo)
-* Zeplin (aprendendo)
-* Marvel (aprendendo)
 * MS Project
 * Webflow
+* BoostrapStudio
+* Adobe XD (em desenvolvimento) 
+* Sketch (em desenvolvimento) 
+* Zeplin (em desenvolvimento) 
+* Gulp (em desenvolvimento) 
 ### } ###
 
 ### .Tecnologias { ###
 * HTML5
 * CSS3
 * Javascript
-* PHP
-* SQL
-* ReactJS (em desenvolvimento) 
-* NodeJS (em desenvolvimento)
-* React Native (em desenvolvimento)
+* ES6 (em desenvolvimento)
+* PHP / SQL
+* React (em desenvolvimento) 
+* @Angular (em desenvolvimento)
 ### } ### 
 
 ### .Contribuições-Grandes (OpenSource) { ###
@@ -84,11 +94,11 @@
 
 * Especialista de Produção Multimídia
 * Fev/2017 - Fev/2018
-> Como especialista atuava na melhoria de performance em nossos produtos acadêmico web para a plataforma digital de ~1M de alunos, utilizando HTML5, CSS3, Javascript, PHP, SQL, ferramentas de design como: ps, ai, indd, frameworks como Bootstrap, Webflow 
+> Como especialista atuava na melhoria de performance em nossos produtos acadêmico web para a plataforma digital de ~1M de alunos, utilizando HTML5, CSS3, Sass, Javascript, PHP, SQL, ferramentas de design como: ps, ai, indd, frameworks como Bootstrap, Webflow 
 
 * Designer Multimídia Pleno
 * Out/2015 - Fev/2017
-> Como Designer Multimídia minha principal tarefa era realização de animações e criações de páginas responsivas em HTML5, CSS3, Javascript e Jquery nos materiais acadêmicos para ~1M de alunos nas marcas Kroton 
+> Como Designer Multimídia minha principal tarefa era realização de animações e criações de páginas responsivas em HTML5, CSS3, Sass, Javascript e Jquery nos materiais acadêmicos para ~1M de alunos nas marcas Kroton 
 
 **Blaise Sistemas e Soluções**
 * Desenvolvedor C# Jr.
