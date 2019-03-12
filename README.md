@@ -17,7 +17,6 @@
 [![Linkedin](https://icongr.am/jam/linkedin.svg)](https://www.linkedin.com/in/deppbrazil/detail/recent-activity/)
 [![Github](https://icongr.am/jam/github.svg)](https://github.com/deppbrazil)
 [![Codepen](https://icongr.am/jam/codepen.svg)](https://codepen.io/deppbrazil/)
-
 [![Pinterest](https://icongr.am/fontawesome/pinterest.svg)](https://br.pinterest.com/deppbrazil/)
 [![Medium](https://icongr.am/jam/medium.svg)](https://medium.com/@deppbrazil)
 [![Spotify](https://icongr.am/jam/spotify.svg)](spotify:user:223a56evgrwf73mdbejoead7y)
