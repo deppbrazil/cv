@@ -2,7 +2,7 @@
 
 [![Banner](assets/banner.jpg)](https://www.deppbrazil.com)
 
-### CV ###
+### Markdown ###
 * [English](https://github.com/deppbrazil/cv/blob/master/en.md)
 * [Portuguese](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
 

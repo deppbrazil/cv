@@ -8,7 +8,7 @@
 * [Github](https://github.com/deppbrazil)
 
 ### Objetivo ###
-* Front-end UI | Front-end UX | Mobile
+* Desenvolvedor Front-end
 
 ### Habilidades Interpessoais ###
 * Comunicativo 

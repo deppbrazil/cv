@@ -8,7 +8,7 @@ deppbrazil@gmail.com
 * [Github](https://github.com/deppbrazil)
 
 ### Objective ###
-* Front-end UI | Front-end UX | Mobile
+* Front-end Developer
 
 ### Soft Skills ###
 * Communicative 
