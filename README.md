@@ -7,8 +7,16 @@
 * [Portuguese](https://github.com/deppbrazil/cv/blob/master/pt-br.md)
 
 ### PDF ###
-* [English](https://github.com/deppbrazil/cv/blob/master/dist/cv-en.pdf)
-* [Portuguese](https://github.com/deppbrazil/cv/blob/master/dist/cv-pt-br.pdf)
+* [English](https://github.com/deppbrazil/cv/blob/master/dist/cv/mir-cv-en.pdf)
+* [Portuguese](https://github.com/deppbrazil/cv/blob/master/dist/cv/mir-cv-pt-br.pdf)
+
+### Cover Letter ###
+* [English](https://github.com/deppbrazil/cv/blob/master/dist/cover-letter/cover-letter-mir-pt-br.pdf)
+* [Portuguese](https://github.com/deppbrazil/cv/blob/master/dist/cover-letter/cover-letter-mir-en.pdf)
+
+### Behavioral Analysis ###
+* [Persona](https://github.com/deppbrazil/cv/blob/master/dist/behavioral-analysis/persona-pt-br.pdf)
+* [Profile](https://github.com/deppbrazil/cv/blob/master/dist/behavioral-analysis/profile-pt-br.pdf)
 
 ### Where to find me? ###
 [![Facebook](https://icongr.am/jam/facebook.svg)](https://web.facebook.com/eusoumircarvalho)
