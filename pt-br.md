@@ -51,6 +51,12 @@
 * ReactJS (em desenvolvimento) 
 * React-native (em desenvolvimento)
 
+### Experiências com metodologias ágeis ### 
+* Scrum
+* Kanban
+* Lean Agile
+* @Safe
+
 ### Contribuições Grandes OpenSource ###
 * Blog do [Raphael Fabeni](https://github.com/raphaelfabeni)
 > https://github.com/raphaelfabeni/raphaelfabeni.github.io/graphs/contributors

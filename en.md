@@ -50,6 +50,12 @@ deppbrazil@gmail.com
 * ReactJS (in growth) 
 * React-native (in growth)
 
+### Experience with agile methods ###
+* Scrum
+* Kanban
+* Lean Agile
+* @Safe
+
 ### Major Accomplishments OpenSource ###
 * Blog the [Raphael Fabeni](https://github.com/raphaelfabeni)
 > https://github.com/raphaelfabeni/raphaelfabeni.github.io/graphs/contributors
