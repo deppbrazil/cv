@@ -1,4 +1,4 @@
-# |Carvalho Elmir { [![brand](assets/brand.jpg)](https://github.com/deppbrazil/cv) } #
+# |Carvalho Elmir [![brand](assets/brand.jpg)](https://github.com/deppbrazil/cv) #
 
 ### Personal profile ### 
 * [deppbrazil.com.br](https://www.deppbrazil.com)
