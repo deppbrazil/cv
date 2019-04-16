@@ -1,4 +1,4 @@
-# |Elmir Carvalho { [![brand](assets/id-small.jpg)](https://github.com/deppbrazil/cv) } #
+# |Elmir Carvalho { [![brand](assets/brand.jpg)](https://github.com/deppbrazil/cv) } #
 
 ### Contatos ### 
 * [deppbrazil.com.br](https://www.deppbrazil.com)
