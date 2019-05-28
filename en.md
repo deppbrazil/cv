@@ -1,11 +1,12 @@
-# |Carvalho Elmir [![brand](assets/brand.jpg)](https://github.com/deppbrazil/cv) #
+# | Carvalho Elmir [![brand](assets/brand.jpg)](https://github.com/deppbrazil/cv) #
+* [Brazil | SP | Jundiaí](https://www.google.com.br/maps/place/Jundia%C3%AD,+SP/@-23.1896366,-47.1868625,11z/data=!3m1!4b1!4m5!3m4!1s0x94cf24293cc00531:0xf686a1c1163c6bbb!8m2!3d-23.1857076!4d-46.8978057)
 
 ### Personal profile ### 
-* [deppbrazil.com.br](https://www.deppbrazil.com)
-deppbrazil@gmail.com 
-* [Brazil | SP | Jundiaí](https://www.google.com.br/maps/place/Jundia%C3%AD,+SP/@-23.1896366,-47.1868625,11z/data=!3m1!4b1!4m5!3m4!1s0x94cf24293cc00531:0xf686a1c1163c6bbb!8m2!3d-23.1857076!4d-46.8978057)
+* + 55 11 9 9588-8199
+* deppbrazil@gmail.com 
 * [Linkedin](https://www.linkedin.com/in/deppbrazil/)
 * [Github](https://github.com/deppbrazil)
+* [deppbrazil.com](https://www.deppbrazil.com)
 
 ### Objective ###
 * Front-end Developer
@@ -14,6 +15,7 @@ deppbrazil@gmail.com
 * [Score](https://profile.codersrank.io/user/deppbrazil)
 
 ### Soft Skills ###
+* I Break Patterns
 * Communicative 
 * Curious
 * Creative
@@ -22,12 +24,15 @@ deppbrazil@gmail.com
 * Empathic
 
 ### Hard Skills ###
-* Web Development and Content Development Web and Mobile
-* Web accessibility (one Web for all)
-* Animations in HTML/HTML5
-* Interactive objects, responsive design, and componentization for Web and Mobile, UX/UI (in growth) 
+* CSS Architecture (BEM, OOCSS, SMACSS, Design Atomic)
+* Development responsives pages Web and Mobile
+* Interface Development using HTML5, CSS3 e Javascript native, not frameworks and following a Guide-line
+* Web accessibility
+* Animations in HTML5, CSS3 e Javascript
+* Animate page transition
 * Versioning and integration with Git
-* Remote repositories: Github and Bitbucket 
+* Remote repositories: Github and Bitbucket
+* UX/UI (in growth)
 * CI/CD (in growth)
   
 ### Languages ### 
@@ -48,10 +53,13 @@ deppbrazil@gmail.com
 ### Stacks ###
 * HTML5
 * CSS3
-* Javascript, ES6 (in growth) 
+* Prepocessors: Sass / Less
+* Javascript
 * PHP / SQL
+* ES6 (in growth) 
 * ReactJS (in growth) 
 * React-native (in growth)
+* NodeJS (in growth)
 
 ### Experience with agile workflow ###
 * Scrum

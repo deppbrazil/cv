@@ -1,11 +1,12 @@
-# |Elmir Carvalho [![brand](assets/brand.jpg)](https://github.com/deppbrazil/cv) #
+# | Elmir Carvalho [![brand](assets/brand.jpg)](https://github.com/deppbrazil/cv) #
+* [Jundiaí | SP | Brasil](https://www.google.com.br/maps/place/Jundia%C3%AD,+SP/@-23.1896366,-47.1868625,11z/data=!3m1!4b1!4m5!3m4!1s0x94cf24293cc00531:0xf686a1c1163c6bbb!8m2!3d-23.1857076!4d-46.8978057)
 
 ### Contatos ### 
-* [deppbrazil.com.br](https://www.deppbrazil.com)
+* + 55 11 9 9588-8199
 * deppbrazil@gmail.com 
-* [Jundiaí | SP | Brasil](https://www.google.com.br/maps/place/Jundia%C3%AD,+SP/@-23.1896366,-47.1868625,11z/data=!3m1!4b1!4m5!3m4!1s0x94cf24293cc00531:0xf686a1c1163c6bbb!8m2!3d-23.1857076!4d-46.8978057)
 * [Linkedin](https://www.linkedin.com/in/deppbrazil/)
 * [Github](https://github.com/deppbrazil)
+* [deppbrazil.com.br](https://www.deppbrazil.com)
 
 ### Objetivo ###
 * Desenvolvedor Front-end
@@ -14,6 +15,7 @@
 * [Pontuação](https://profile.codersrank.io/user/deppbrazil)
 
 ### Habilidades Interpessoais ###
+* Eu quebro padrões
 * Comunicativo 
 * Curioso
 * Criativo
@@ -22,12 +24,15 @@
 * Empático
 
 ### Habilidades Técnicas ###
-* Desenvolvimento Web, Desenvolvimento de conteúdo Web e Mobile
-* Acessibilidade na Web (a Web para todos)
-* Animações em HTML/HTML5
-* Objetos interativos, design responsivo e componentização para Web e Mobile, UI/UX (em desenvolvimento) 
-* Integração e versionamento com Git
-* Repositótios remotos: Github e Bitbucket 
+* Arquiteturas CSS (BEM, OOCSS, SMACSS, Design Atomic)
+* Desenvolvimento de páginas responsivas Web e Mobile
+* Desenvolvimento de interface usando HTML5, CSS3 e Javascript nativo, sem frameworks e seguindo um Guide-line 
+* Acessibilidade na Web
+* Animações em HTML5, CSS3 e Javascript
+* Transição de páginas animadas
+* Integração e versionamento com Git
+* Repositótios remotos: Github e Bitbucket
+* UI/UX (em desenvolvimento)
 * CI/CD (em desenvolvimento)
 
 ### Idiomas ### 
@@ -49,10 +54,13 @@
 ### Tecnologias ###
 * HTML5
 * CSS3
-* Javascript, ES6 (em desenvolvimento) 
+* Prepocessors: Sass / Less
+* Javascript
 * PHP / SQL
+* ES6 (em desenvolvimento) 
 * ReactJS (em desenvolvimento) 
 * React-native (em desenvolvimento)
+* NodeJS (em desenvolvimento)
 
 ### Experiências com fluxo de trabalho ágil ### 
 * Scrum
